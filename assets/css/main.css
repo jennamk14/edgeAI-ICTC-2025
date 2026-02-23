@@ -247,6 +247,11 @@ section ul {
   border-bottom: 1px solid var(--secondary);
 }
 
+/* ---------- Thank-You Banner ---------- */
+#thank-you {
+  max-width: none;
+}
+
 /* ---------- Footer ---------- */
 footer {
   padding: 2rem 1rem;
